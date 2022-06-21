@@ -2,4 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">В будущем тут тоже будет что-то, но не сейчас.</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wodjess&theme=dark&hide_border=true&locale=ru&fire=DD2727&dates=DD2727)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Wodjess&theme=dark&hide_border=true&locale=ru&fire=DD2727&dates=DD2727)](https://git.io/streak-stats)
+</p>
+
